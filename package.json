@@ -1,0 +1,10 @@
+{
+    "name": "shadysite", 
+    "license": "MPL 2.0", 
+    "author": "Blake Winton <bwinton@mozilla.com>", 
+    "contributors": ["Ian Barlow <ibarlow@mozilla.com>"],
+    "version": "0.2", 
+    "fullName": "Shady Sites", 
+    "id": "jid1-1RjjB5Nzs6jBVA", 
+    "description": "An add-on to let you know when you’re on a shady site."
+}
